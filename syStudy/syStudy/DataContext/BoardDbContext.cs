@@ -15,7 +15,7 @@ namespace syStudy.DataContext
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=syBoardDb;User Id=sa;Password=tjtndus2280;");
+            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=syBoardDb;User Id=sa;Password=1234;");
         }
     }
 }

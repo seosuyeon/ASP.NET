@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssy77\\source\\repos\\syStudy\\syStudy\\syStudy.csproj": {}
+    "C:\\Users\\ssy77\\OneDrive\\문서\\ASP.NET\\syStudy\\syStudy\\syStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssy77\\source\\repos\\syStudy\\syStudy\\syStudy.csproj": {
+    "C:\\Users\\ssy77\\OneDrive\\문서\\ASP.NET\\syStudy\\syStudy\\syStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssy77\\source\\repos\\syStudy\\syStudy\\syStudy.csproj",
+        "projectUniqueName": "C:\\Users\\ssy77\\OneDrive\\문서\\ASP.NET\\syStudy\\syStudy\\syStudy.csproj",
         "projectName": "syStudy",
-        "projectPath": "C:\\Users\\ssy77\\source\\repos\\syStudy\\syStudy\\syStudy.csproj",
+        "projectPath": "C:\\Users\\ssy77\\OneDrive\\문서\\ASP.NET\\syStudy\\syStudy\\syStudy.csproj",
         "packagesPath": "C:\\Users\\ssy77\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssy77\\source\\repos\\syStudy\\syStudy\\obj\\",
+        "outputPath": "C:\\Users\\ssy77\\OneDrive\\문서\\ASP.NET\\syStudy\\syStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssy77\\AppData\\Roaming\\NuGet\\NuGet.Config",
